@@ -93,7 +93,7 @@ namespace CleanCodeExersises
         public bool eligibleClean(Employee employee)
         {
             bool employeeAge = employee.Age > 55;
-            bool employedForTenYears employee.YearsEmployed > 10;
+            bool employedForTenYears = employee.YearsEmployed > 10;
             bool currentlyRetired = employee.IsRetired == true;
             bool retirementLegible = employeeAge && employedForTenYears && currentlyRetired;
             return retirementLegible;
