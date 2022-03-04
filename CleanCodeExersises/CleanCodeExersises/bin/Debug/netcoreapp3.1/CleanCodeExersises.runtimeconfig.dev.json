@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Watso\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Watso\\.nuget\\packages"
+    ]
+  }
+}
